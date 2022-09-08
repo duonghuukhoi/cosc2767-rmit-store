@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>RMIT Store1</title>
+        <title>RMIT Store</title>
 
         <!-- Favicon -->
         <link rel="icon" href="img/favicon.jpg" type="image/png" />
@@ -85,7 +85,7 @@
 
         <section class="rmit-store-section row">
             <div class="check_tittle wow fadeInUp" data-wow-delay="0.4s" id="item-list">
-                <h2>Our Store1</h2>
+                <h2>Our Store</h2>
             </div>
             <div class="row rmit-product-section">
               <?php
